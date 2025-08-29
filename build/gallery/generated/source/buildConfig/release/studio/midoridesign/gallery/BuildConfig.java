@@ -1,0 +1,10 @@
+/**
+ * Automatically generated file. DO NOT MODIFY
+ */
+package studio.midoridesign.gallery;
+
+public final class BuildConfig {
+  public static final boolean DEBUG = false;
+  public static final String LIBRARY_PACKAGE_NAME = "studio.midoridesign.gallery";
+  public static final String BUILD_TYPE = "release";
+}

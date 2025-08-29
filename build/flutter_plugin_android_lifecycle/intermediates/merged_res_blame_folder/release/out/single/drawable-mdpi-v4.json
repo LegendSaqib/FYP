@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Grapes-Lesions-Detection-App1\\build\\flutter_plugin_android_lifecycle\\intermediates\\merged_res\\release\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\ok\\.gradle\\caches\\transforms-3\\23e08812d3c571e69c598c9ff2251e24\\transformed\\core-1.6.0\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Grapes-Lesions-Detection-App1\\build\\flutter_plugin_android_lifecycle\\intermediates\\merged_res\\release\\drawable-mdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\ok\\.gradle\\caches\\transforms-3\\23e08812d3c571e69c598c9ff2251e24\\transformed\\core-1.6.0\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\Grapes-Lesions-Detection-App1\\build\\flutter_plugin_android_lifecycle\\intermediates\\merged_res\\release\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\ok\\.gradle\\caches\\transforms-3\\23e08812d3c571e69c598c9ff2251e24\\transformed\\core-1.6.0\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\Grapes-Lesions-Detection-App1\\build\\flutter_plugin_android_lifecycle\\intermediates\\merged_res\\release\\drawable-mdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\ok\\.gradle\\caches\\transforms-3\\23e08812d3c571e69c598c9ff2251e24\\transformed\\core-1.6.0\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\Grapes-Lesions-Detection-App1\\build\\flutter_plugin_android_lifecycle\\intermediates\\merged_res\\release\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\ok\\.gradle\\caches\\transforms-3\\23e08812d3c571e69c598c9ff2251e24\\transformed\\core-1.6.0\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    }
+]
